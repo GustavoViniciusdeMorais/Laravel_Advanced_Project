@@ -1,0 +1,6 @@
+[2021-03-13 10:00:35.311] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2021-03-13 10:00:36.720] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers undefined
+[2021-03-13 10:00:37.468] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-vscode-remote.remote-containers-0.163.2: ms-vscode-remote.remote-containers
+[2021-03-13 10:00:37.468] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-vscode-remote.remote-containers-0.163.2
+[2021-03-13 10:00:37.470] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-containers
+[2021-03-13 10:00:37.605] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-containers
