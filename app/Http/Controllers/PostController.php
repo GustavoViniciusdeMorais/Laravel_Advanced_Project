@@ -23,6 +23,6 @@ class PostController extends Controller
         $post = Post::find($id);
         $post->load('image');
 
-        return response()->json([$post]);
+        return response()->json(['data' => $post]);
     }
 }
